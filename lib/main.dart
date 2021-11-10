@@ -13,7 +13,7 @@ import 'package:master_inventory_koko/home.dart';
 // }
 void main() {
   runApp(MyApp());
-  //HttpOverrides.global = MyHttpOverrides();
+  // HttpOverrides.global = MyHttpOverrides();
 }
 
 class MyApp extends StatelessWidget {
